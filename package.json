@@ -1,0 +1,29 @@
+{
+  "name": "@coolcrab28/nodecli",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "nodecli": "bin/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolcrab28/node_server.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/coolcrab28/node_server/issues"
+  },
+  "homepage": "https://github.com/coolcrab28/node_server#readme",
+  "description": ""
+}
