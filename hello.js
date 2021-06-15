@@ -1,1 +1,0 @@
-meri aawaj aa rhi h?
